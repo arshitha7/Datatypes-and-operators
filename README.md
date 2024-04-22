@@ -43,7 +43,7 @@ int main()
 ```
 
 ## OUTPUT:
-### Outpu 1:
+### Output 1:
 
 ![alt text](image.png)
 
