@@ -1,4 +1,7 @@
 # EX1(A) DATATYPES-AND-OPERATORS
+Developed by: ARSHITHA MS
+
+Register number: 212223240015
  ## AIM:
  To write a program to find sum and quotient of two integer numbers
  ## ALGORITHM:
